@@ -1,0 +1,12 @@
+Importance of Software Testing
+
+
+1.Defects can be identified early: Software testing is important because if there are any bugs they can be identified early and can be fixed before the delivery of the software.
+
+2.Improves quality of software: Software Testing uncovers the defects in the software, and fixing them improves the quality of the software.
+
+3.Increased customer satisfaction: Software testing ensures reliability, security, and high performance which results in saving time, costs, and customer satisfaction.
+
+4.Helps with scalability: Software testing type non-functional testing helps to identify the scalability issues and the point where an application might stop working.
+
+5.Saves time and money: After the application is launched it will be very difficult to trace and resolve the issues, as performing this activity will incur more costs and time. Thus, it is better to conduct software testing at regular intervals during software development.
